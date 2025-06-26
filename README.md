@@ -147,15 +147,17 @@ public class DBConnection {
 
 ## 🖼️ Screenshots
 
-| Login Page                      | Register Page                         | Dashboard Page                          |
-| ------------------------------- | ------------------------------------- | --------------------------------------- |
-| ![Login](https://github.com/user-attachments/assets/7e586f1c-5b19-4a26-acad-f9751bff160a) | ![Register](https://github.com/user-attachments/assets/5bf118e7-6142-44a7-8eb9-a2baee3c1ac6) | ![Dashboard](https://github.com/user-attachments/assets/487c3e42-9d9a-4ceb-b0d3-9b335e9cab7f) |
+| Login Page                                                                                | Register Page                                                                                |
+| ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| ![Login](https://github.com/user-attachments/assets/7e586f1c-5b19-4a26-acad-f9751bff160a) | ![Register](https://github.com/user-attachments/assets/5bf118e7-6142-44a7-8eb9-a2baee3c1ac6) |
 
-| Account Creation                  | Fund Transfer                         | Transaction History                 |
-| --------------------------------- | ------------------------------------- | ----------------------------------- |
-| ![Create](https://github.com/user-attachments/assets/25353e56-dbac-478a-88b6-c308caaa2396) | ![Transfer](https://github.com/user-attachments/assets/f122f6f3-74bd-4c39-91ae-0f98fd75ae6d) | ![Transation](https://github.com/user-attachments/assets/d74f93c2-13d8-422d-8f38-ca7aa130849b) |
+| Dashboard Page                                                                                | Account Creation                                                                           |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| ![Dashboard](https://github.com/user-attachments/assets/487c3e42-9d9a-4ceb-b0d3-9b335e9cab7f) | ![Create](https://github.com/user-attachments/assets/25353e56-dbac-478a-88b6-c308caaa2396) |
 
-*📸 Screenshots are hosted via GitHub's image CDN (uploaded directly via drag-and-drop).*
+| Fund Transfer                                                                                | Transaction History                                                                            |
+| -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| ![Transfer](https://github.com/user-attachments/assets/f122f6f3-74bd-4c39-91ae-0f98fd75ae6d) | ![Transation](https://github.com/user-attachments/assets/d74f93c2-13d8-422d-8f38-ca7aa130849b) |
 
 ---
 
