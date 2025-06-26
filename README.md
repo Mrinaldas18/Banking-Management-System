@@ -10,10 +10,6 @@ A modern **Banking Management System** built using **Java Servlets**, **JSP**, *
 BankingManagementSystem/
 ├── README.md
 ├── .gitignore
-├── screenshots/
-│   ├── create.png
-│   ├── transfer.png
-│   └── deposit.png
 ├── src/
 │   └── main/
 │       ├── java/
