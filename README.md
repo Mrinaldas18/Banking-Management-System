@@ -155,6 +155,8 @@ public class DBConnection {
 | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | ![Transfer](https://github.com/user-attachments/assets/f122f6f3-74bd-4c39-91ae-0f98fd75ae6d) | ![Transation](https://github.com/user-attachments/assets/d74f93c2-13d8-422d-8f38-ca7aa130849b) |
 
+*📸 Screenshots are hosted via GitHub's image CDN (uploaded directly via drag-and-drop).*
+
 ---
 
 ## 🙋 Author
